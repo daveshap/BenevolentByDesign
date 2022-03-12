@@ -2,7 +2,9 @@
 
 ### Six Words to Safeguard Humanity
 
-![Book cover art](https://github.com/daveshap/BenevolentByDesign/blob/main/BBD_Front.jpg | width=300)
+![Book cover art](https://github.com/daveshap/BenevolentByDesign/blob/main/BBD_Front.jpg?raw=true | width=300)
+
+<img src="https://github.com/daveshap/BenevolentByDesign/blob/main/BBD_Front.jpg?raw=true" width="300">
 
 ## Introduction
 
